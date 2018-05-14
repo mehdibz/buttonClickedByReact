@@ -1,2 +1,0 @@
-# buttonClickedByReact
-Created with CodeSandbox
